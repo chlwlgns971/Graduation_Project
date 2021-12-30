@@ -11,14 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14b892d2-740a-456b-9ed8-dc35619413f3" name="Default Changelist" comment="final version">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/졸업작품.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Keras-2.4.3.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Keras-2.4.3.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Keras-2.4.3.dist-info/METADATA" afterDir="false" />
@@ -13983,25 +13975,6 @@
       <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/딥러닝 예제코드/.idea/deeplearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/Camera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/Check_mask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/FaceModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/FaceModel1022.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel0417.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel0419.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel0424.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel0709(실패).hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel0712.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel0719.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel0803.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel1004.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/MaskCheckModel1012.hdf5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/Model_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/Project_GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/Project_GUI.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/Raspberry_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/ResizeData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/졸작/camera_icon.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14155,6 +14128,14 @@
       <option name="presentableId" value="Default" />
       <updated>1607181435875</updated>
     </task>
+    <task id="LOCAL-00001" summary="final version">
+      <created>1640848780403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640848780403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -14238,10 +14219,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="58" width="981" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640270986049" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1640848653566">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1640848823659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1640848653566" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1640848823659" />
     <state x="565" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1640848088111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
